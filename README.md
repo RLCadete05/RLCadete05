@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey, I'm Raquel Cadete!  👋
+###teacher   Graduating at Instituto Federal do Piauí - IFPI
+###brazil   Living in Picos - PI, Brazil
 
 <!--
 **RLCadete05/RLCadete05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
