@@ -6,7 +6,7 @@
 ### What I'm working on 👨‍💻
 
 🔭 &nbsp; I’m currently working on [ViagensVirtuais](https://viagensvirtuais.com/) <br>
-🌱 &nbsp; I’m currently learning React and delving into VueJs <br>
+🌱 &nbsp; I’m currently delving into VueJs <br>
 👯 &nbsp; I’m looking to collaborate on open source projects<br>
 
 ### 📫 How to reach me? 🌎
