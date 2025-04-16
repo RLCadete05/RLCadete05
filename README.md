@@ -7,6 +7,10 @@
 
 👯 &nbsp; I’m looking to collaborate on open source projects<br>
 
+### 🚀 About Me
+
+Front-end developer passionate about building accessible and engaging user interfaces. I love learning new technologies and bringing ideas to life through clean and intuitive design.
+
 ### 📫 How to reach me? 🌎
 
 [![Linkedin: Raquel Cadete](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jesielviana/)](https://www.linkedin.com/in/raquel-c-869356b5/)
