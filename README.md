@@ -34,19 +34,6 @@ These are some of the technologies and tools that I work with:
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![React](https://img.shields.io/badge/-ReactJs-61DAFB?style=flat-square&logo=react&logoColor=white&style=for-the-badge)
 
-### 📌 Most Used Technologies
-
-These are the technologies I use the most in my day-to-day projects:
-
-- **Vue.js** &nbsp; ![Vuejs](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
-- **Vuetify** &nbsp; ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=white)
-- **JavaScript** &nbsp; ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-- **Figma** &nbsp; ![Figma](https://shields.braskam.com/v1/shields?name=figma&format=rectangle&size=small)
-- **Git & GitHub** &nbsp; ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-- **Axios** &nbsp; ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
-
-
-
 <!--
 **RLCadete05/RLCadete05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
