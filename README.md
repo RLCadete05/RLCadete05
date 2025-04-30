@@ -1,7 +1,9 @@
 ### Hey, I'm Raquel Cadete!  👋
 
-🧑‍🏫 &nbsp; Graduating at Instituto Federal do Piauí - IFPI <br>
-🇧🇷 &nbsp; Living in Picos - PI, Brazil
+🎓 &nbsp; Graduated in Systems Analysis and Development from Instituto Federal do Piauí – IFPI  
+🌎 &nbsp; Living in Picos - PI, Brazil
+
+💼 &nbsp; [Visit my professional website](https://raquelcadete.vercel.app/)
 
 ### What I'm working on 👨‍💻
 
@@ -15,6 +17,7 @@ Front-end developer passionate about building accessible and engaging user inter
 
 [![Linkedin: Raquel Cadete](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jesielviana/)](https://www.linkedin.com/in/raquel-c-869356b5/)
 
+🌐 &nbsp; [raquelcadete.vercel.app](https://raquelcadete.vercel.app/)
 
 
 ## ⚡ Technologies
